@@ -1,0 +1,24 @@
+# Personal book data and device state
+**/data/
+*.txt
+!README.md
+!CHANGELOG.md
+
+# Local IDE/build outputs
+.vscode/
+.idea/
+*.elf
+*.uf2
+*.bin
+*.map
+build/
+.DS_Store
+Thumbs.db
+
+# Keep the unreviewed source sketch at repository root out of the public repo;
+# the reviewed copy is under Firmware/RSVP_v13/.
+/RSVP_v13.ino
+
+# Original source assets kept at the folder root; reviewed copies live in subfolders
+/*.jpg
+/*.stl
