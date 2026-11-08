@@ -6,9 +6,11 @@ A DIY handheld reader that presents text one word at a time using Rapid Serial V
 ---
 <img src="Images/IMG_0647.jpg" width="400"> <img src="Images/IMG_0646.jpg" width="400"> 
 ---
-<img src="Images/IMG_0664.jpg" width="300"> <img src="Images/IMG_0665.jpg" width="300"> <img src="Images/IMG_0666.jpg" width="300"> 
+<img src="Images/IMG_0664.jpg" width="400"> <img src="Images/IMG_0665.jpg" width="400">
+----
+<img src="Images/IMG_0666.jpg" width="400"> <img src="Images/IMG_0667.jpg" width="400">
 ---
-<img src="Images/IMG_0667.jpg" width="300"> <img src="Images/IMG_0668.jpg" width="300"> <img src="Images/IMG_0669.jpg" width="300"> 
+<img src="Images/IMG_0668.jpg" width="400"> <img src="Images/IMG_0669.jpg" width="400"> 
 ---
 See the [wiring diagram](Hardware/wiring-diagram.svg) and [hardware notes](Hardware/components.md).
 
