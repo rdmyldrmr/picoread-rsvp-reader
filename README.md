@@ -4,7 +4,7 @@ A DIY handheld reader that presents text one word at a time using Rapid Serial V
 
 > **Status:** Personal project release. The source files and photos are provided as-is. Please verify your exact board, display, charging module and wiring before powering a build.
 
-![Completed RSVP Reader](Images/IMG_0664.jpg)
+![Completed RSVP Reader](Images/IMG_0665.jpg)
 
 See the [wiring diagram](Hardware/wiring-diagram.svg) and [hardware notes](Hardware/components.md), updated from [IMG_0670.jpg](Images/IMG_0670.jpg).
 
