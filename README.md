@@ -1,13 +1,15 @@
 # RSVP Reader
 
 A DIY handheld reader that presents text one word at a time using Rapid Serial Visual Presentation (RSVP). This build combines Raspberry Pi Pico firmware, an OLED display, two buttons, a rechargeable battery, and a custom 3D-printed enclosure.
-
-> **Status:** Personal project release. The source files and photos are provided as-is. Please verify your exact board, display, charging module and wiring before powering a build.
-![First usable version of RSVP Reader](Images/IMG_0603.jpg)
-![First usable version of RSVP Reader](Images/IMG_0604.jpg)
-![Completed RSVP Reader](Images/IMG_0665.jpg)
-![Completed RSVP Reader](Images/IMG_0668.jpg)
-
+---
+<img src="Images/IMG_0603.jpg" width="370"> <img src="Images/IMG_0604.jpg" width="600">
+---
+<img src="Images/IMG_0647.jpg" width="400"> <img src="Images/IMG_0646.jpg" width="400"> 
+---
+<img src="Images/IMG_0664.jpg" width="300"> <img src="Images/IMG_0665.jpg" width="300"> <img src="Images/IMG_0666.jpg" width="300"> 
+---
+<img src="Images/IMG_0667.jpg" width="300"> <img src="Images/IMG_0668.jpg" width="300"> <img src="Images/IMG_0669.jpg" width="300"> 
+---
 See the [wiring diagram](Hardware/wiring-diagram.svg) and [hardware notes](Hardware/components.md).
 
 ## Features
