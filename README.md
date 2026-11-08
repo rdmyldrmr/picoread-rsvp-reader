@@ -1,6 +1,9 @@
 # RSVP Reader
 
 A DIY handheld reader that presents text one word at a time using Rapid Serial Visual Presentation (RSVP). This build combines Raspberry Pi Pico firmware, an OLED display, two buttons, a rechargeable battery, and a custom 3D-printed enclosure.
+
+Developed / Refactored with the help of [ChatGPT](https://chatgpt.com)
+
 ---
 <img src="Images/IMG_0603.jpg" width="370"> <img src="Images/IMG_0604.jpg" width="600">
 ---
@@ -69,6 +72,8 @@ The project is released under the MIT License; see [LICENSE](LICENSE). Third-par
 ## Credits
 
 - Arduino-Pico core by Earle F. Philhower, III: https://github.com/earlephilhower/arduino-pico
-- U8g2 by olikraus: https://github.com/olikraus/u8g2
+- U8g2 by olikraus: https://github.com/olikraus/u8g2 
+- **AI Assistance:** Generated/Refactored with the help of [ChatGPT](https://chatgpt.com)
+
 
 
